@@ -4,7 +4,7 @@ Software Público disponibilizado no link https://softwarepublico.gov.br/social/
 ##Instituto de Informática - Universidade Federal de Goiás - Leitura Software 2016/2 
 
 
-Repositório criado com o objetivo de gerenciar a configuração das alterações realizadas na documentação e codificação do Software Livre Ases.Tais tarefas são necessárias devido ao Projeto da disciplina de Leitura de Software ministrada pelo professor [Alessandro Cruvinel](mailto:alessandro@inf.ufg.br).
+Repositório criado com o objetivo de gerenciar a configuração das alterações realizadas na documentação e codificação do Software Livre Ases. Tais tarefas são necessárias devido ao Projeto da disciplina de Leitura de Software ministrada pelo professor [Alessandro Cruvinel](mailto:alessandro@inf.ufg.br).
 
 Para o projeto ser desenvolvido, os seguintes participantes estão envolvidos na gerência e implementação do projeto:
 

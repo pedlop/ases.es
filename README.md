@@ -1,4 +1,4 @@
-# Ases
+# Ases - Versão Desktop
 Software Público disponibilizado no link https://softwarepublico.gov.br/social/ases;
 
 ##Instituto de Informática - Universidade Federal de Goiás - Leitura Software 2016/2 
@@ -35,7 +35,7 @@ Para a implementação do projeto, serão utilizadas tecnologias _Open Source_, 
 A proposta do Projeto e toda a documentação já existente e, todos os documentos adicionados podem ser encontrados na página Inicial de nossa [Wiki](https://github.com/pedlop/ases.es/wiki) no formato de  **PDF** (formato em que os documentos da Ases foram adicionados no Software Público Brasileiro.
 
 ### Metodologia adotada
-Foi adotada a Metodologia Ágil SCRUM. Sendo assim o Projeto terá 4 Sprints até o término do prazo para a entrega do 
+Foi adotada a Metodologia Ágil SCRUM. Sendo assim o Projeto terá 4 Sprints até o término do prazo para a entrega do mesmo para o Professor.
 
 ### Acompanhamento das Atividades do Projeto
 

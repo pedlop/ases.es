@@ -32,7 +32,7 @@ Para a implementação do projeto, serão utilizadas tecnologias _Open Source_, 
 
 ### Proposta e Documentação do Projeto
 
-A proposta do Projeto e toda a documentação já existente e, todos os documentos adicionados podem ser encontrados na página Inicial de nossa [Wiki](https://github.com/pedlop/ases.es/wiki) no formato de  **PDF** (formato em que os documentos da Ases foram encontrados no Software Público Brasileiro.
+A proposta do Projeto e toda a documentação já existente e, todos os documentos adicionados podem ser encontrados na página Inicial de nossa [Wiki](https://github.com/pedlop/ases.es/wiki) no formato de  **PDF** (formato em que os documentos da Ases foram adicionados no Software Público Brasileiro.
 
 ### Metodologia adotada
 Foi adotada a Metodologia Ágil SCRUM. Sendo assim o Projeto terá 4 Sprints até o término do prazo para a entrega do 
@@ -40,7 +40,7 @@ Foi adotada a Metodologia Ágil SCRUM. Sendo assim o Projeto terá 4 Sprints at�
 ### Acompanhamento das Atividades do Projeto
 
 As atividades desenvolvidas e o andamento do projeto poderão ser acompanhadas através do quadro público do trello.
-Para acessar [clique aqui](https://trello.com/b/5RtpCqEI)
+Para acessar [clique aqui](https://trello.com/b/5RtpCqEI).
 
 ### Agradecimentos
 
